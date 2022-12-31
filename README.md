@@ -41,7 +41,7 @@ real_esrgan.param <br/>
 
 ## Running the app.
 To run the application, load the ESRGAN.cbp project file into Code::Blocks. More information? Follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
-Large images can take a VERY long time to process. The photos of the flat and garden took more than 10 minutes.<br/><br/>
+Large images can take a VERY long time to process. The photos of the flat and garden took more than 10 minutes on an overclocked Pi.<br/><br/>
 For best results, do not use jpeg compressed images. Strong jpeg compression generates typical artefacts to which the super-resolution algorithm does not respond well.<br/><br/>
 ![output image]( https://qengineering.eu/github/ESRGAN_garden.webp )
 
